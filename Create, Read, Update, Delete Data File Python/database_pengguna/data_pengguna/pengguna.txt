@@ -1,0 +1,17 @@
+Nama=andi setiawan,Umur=26
+Nama=siti aisyah,Umur=24
+Nama=budi santoso,Umur=27
+Nama=dewi lestari,Umur=22
+Nama=joko nugroho,Umur=25
+Nama=ahmad fauzan,Umur=28
+Nama=fitri handayani,Umur=21
+Nama=bayu saputra,Umur=29
+Nama=lina maharani,Umur=20
+Nama=hendri kurniawan,Umur=30
+Nama=yusuf maulana,Umur=23
+Nama=citra melati,Umur=22
+Nama=doni syahputra,Umur=26
+Nama=alya kusuma,Umur=24
+Nama=aang solihin,Umur=19
+Nama=rina oktaviani,Umur=21
+Nama=mamat darwis,Umur=32
